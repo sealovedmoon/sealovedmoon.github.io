@@ -39,7 +39,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: center;
-  background-image: url("githubg.png");
+  background-image: "githubBG.png";
   background-position: center;
 }
 .home-text {
